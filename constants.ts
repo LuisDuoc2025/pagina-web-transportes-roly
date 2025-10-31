@@ -11,13 +11,13 @@ export const BUSINESS_INFO = {
 };
 
 export const HERO_CAROUSEL_IMAGES = [
-  'https://ibb.co/xSwsFzPQ', // Chevrolet onix
-  'https://ibb.co/VW0tjVcj', // Puente y carretera
-  'https://ibb.co/C3YhGmDw', // Van en la carretera
-  'https://ibb.co/0jGNG6v7',   // Camino de montaña
-  'https://ibb.co/B58JM0Qv',   // Camino de montaña2
-  'https://ibb.co/8DnHfkJ2',   // Camino de montaña3
-  'https://ibb.co/HTSxSDwT',   // Camino de montaña4
+  'https://i.ibb.co/LzBPN9bf/Hero-1.jpg', // Chevrolet onix
+  'https://i.ibb.co/kgVxHKsH/Hero-2.jpg', // Puente y carretera
+  'https://i.ibb.co/bMCz9QD6/Hero-3.jpg', // Van en la carretera
+  'https://i.ibb.co/zh4c4BDM/Hero-4.jpg',   // Camino de montaña
+  'https://i.ibb.co/ycLCjHZK/Hero-5.jpg',   // Camino de montaña2
+  'https://i.ibb.co/TBDs7yZR/Hero-6.jpg',   // Camino de montaña3
+  'https://i.ibb.co/ZzjYj64z/Hero-7.jpg',   // Camino de montaña4
 ];
 
 export const SERVICES = [
