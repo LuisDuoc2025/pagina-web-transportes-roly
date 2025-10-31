@@ -1,20 +1,20 @@
 
 import type { Event, Testimonial } from './types';
-import { FaCar, FaMapMarkedAlt, FaPlaneDeparture, FaCalendarCheck } from 'public/Hero/Hero-5';
+import { FaCar, FaMapMarkedAlt, FaPlaneDeparture, FaCalendarCheck } from 'react-icons/fa';
 
 export const BUSINESS_INFO = {
   name: 'Transportes Roly',
   phone: '+56975520554',
-  email: 'Transportesroly@gmail.com',
+  email: 'rolytours@gmail.com',
   facebook: 'https://facebook.com',
   instagram: 'https://instagram.com',
 };
 
 export const HERO_CAROUSEL_IMAGES = [
-  'public/Hero/Hero-5',     //Chevrolet Tablero
-  'public/Hero/Hero-2',     //Mujer
-  'public/Hero/Hero-3',     //Panel
-  'public/Hero/Hero-4',     //Auto
+  'https://picsum.photos/id/1078/1600/900', // Vista carretera
+  'https://picsum.photos/id/1011/1600/900', // Puente y carretera
+  'https://picsum.photos/id/1071/1600/900', // Van en la carretera
+  'https://picsum.photos/id/18/1600/900',   // Camino de montaña
 ];
 
 export const SERVICES = [
