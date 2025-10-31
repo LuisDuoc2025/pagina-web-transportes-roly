@@ -5,19 +5,19 @@ import { FaCar, FaMapMarkedAlt, FaPlaneDeparture, FaCalendarCheck } from 'react-
 export const BUSINESS_INFO = {
   name: 'Transportes Roly',
   phone: '+56975520554',
-  email: 'rolytours@gmail.com',
+  email: 'transportesroly@gmail.com',
   facebook: 'https://facebook.com',
   instagram: 'https://instagram.com',
 };
 
 export const HERO_CAROUSEL_IMAGES = [
-  'https://1drv.ms/i/c/7d4231f6a3c8ecde/EZc8izha8UxGtCt1n0fBXkwB18TkL1vTwYm1eKFIvC7Qzw?e=cHid4Z', // Chevrolet onix
-  'https://1drv.ms/i/c/7d4231f6a3c8ecde/Ec8puOv4Q9BCiX46-bO0UtkBZxm2xxuRLdGk4Spsb_rI8g?e=ITqged', // Puente y carretera
-  'https://1drv.ms/i/c/7d4231f6a3c8ecde/EfOjJmx1ULtMt-_wBBxR3MAB7vaa00faIOBBdYz8eifNow?e=8Yrq1J', // Van en la carretera
-  'https://1drv.ms/i/c/7d4231f6a3c8ecde/EbGrs5irPf1OifroHN2ODZUBn9au-l3tf22b-YHJTe1C3g?e=VwvTg4',   // Camino de montaña
-  'https://1drv.ms/i/c/7d4231f6a3c8ecde/EViZEmZ8EU9FqNJ_wAj95v0BUHKZhTh3mM4VVnRW0E3LsA?e=OHyVPa',   // Camino de montaña2
-  'https://1drv.ms/i/c/7d4231f6a3c8ecde/EUy4wun1oBREpJSDJaqTLVIBoleJiEyJDjUEEov0DzHrpA?e=kx0uQc',   // Camino de montaña3
-  'https://1drv.ms/i/c/7d4231f6a3c8ecde/Ed_bWPHzLjJEpf6-Bjzwu8sBaYujXyLkBiGs1mMaJ9JzBw?e=g4PxMC',   // Camino de montaña4
+  'https://ibb.co/xSwsFzPQ', // Chevrolet onix
+  'https://ibb.co/VW0tjVcj', // Puente y carretera
+  'https://ibb.co/C3YhGmDw', // Van en la carretera
+  'https://ibb.co/0jGNG6v7',   // Camino de montaña
+  'https://ibb.co/B58JM0Qv',   // Camino de montaña2
+  'https://ibb.co/8DnHfkJ2',   // Camino de montaña3
+  'https://ibb.co/HTSxSDwT',   // Camino de montaña4
 ];
 
 export const SERVICES = [
