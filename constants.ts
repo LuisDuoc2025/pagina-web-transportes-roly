@@ -76,31 +76,31 @@ export const EVENTS: Event[] = [
     image: 'https://i.ibb.co/219tqbcN/carru-4.jpg',
     title: 'Gira 20 años',
     date: '15 Noviembre/21:00Hrs',
-    description: 'Celebra 20 años de carrera con sus grandes éxitos en vivo. Viaja cómodo con RolyTours.',
+    description: 'Celebra 20 años de carrera con sus grandes éxitos en vivo. Viaja cómodo con Transportes-Roly.',
   },
    {
     image: 'https://i.ibb.co/cX151wPh/carru-5.jpg',
     title: 'Solo Tour',
     date: '21 Noviembre/21:00Hrs',
-    description: 'Ven y disfruta del flow mundial y perreo boricua, sin preocuparte por el regreso. Viaja cómodo con RolyTours.',
+    description: 'Ven y disfruta del flow mundial y perreo boricua, sin preocuparte por el regreso. Viaja cómodo con Transportes-Roly.',
   },
   {
     image: 'https://i.ibb.co/wNPTmZ2f/carru-6.jpg',
     title: 'Lucero',
     date: '22 Noviembre/21Hrs',
-    description: 'Vive la voz y el ritmo con sus grandes exitos, Viaja cómodo con RolyTours.',
+    description: 'Vive la voz y el ritmo con sus grandes exitos, Viaja cómodo con Transportes-Roly.',
   },
    {
     image: 'https://i.ibb.co/HLL4fhSr/carru-7.jpg',
     title: 'Humor, Risas y anecdotas',
     date: '28 Noviembre/21:00Hrs',
-    description: 'Disfruta de risas, anécdotas y humor irreverente. Despreocupate del regreso. Viaja cómodo con RolyTours.',
+    description: 'Disfruta de risas, anécdotas y humor irreverente. Despreocupate del regreso. Viaja cómodo con Transportes-Roly.',
   },
    {
     image: 'https://i.ibb.co/8Ddxxy3D/carru-8.jpg',
     title: 'Hits tour 2025',
     date: '29 Noviembre/21:00Hrs',
-    description: 'Disfruta del romanticismo, nostalgia y emociones eternas sin preocuparte por el regreso. Viaja cómodo con RolyTours.',
+    description: 'Disfruta del romanticismo, nostalgia y emociones eternas sin preocuparte por el regreso. Viaja cómodo con Transportes-Roly.',
   },
 ];
 
