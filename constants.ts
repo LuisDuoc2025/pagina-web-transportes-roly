@@ -55,49 +55,49 @@ export const SERVICES = [
 */
 export const EVENTS: Event[] = [
   {
-    image: 'https://i.ibb.co/M5KWVRMb/eventos-1.jpg',
+    image: 'https://i.ibb.co/qF5vQTd2/carru-1.jpg',
     title: '50 años-La Historia',
     date: '07 Noviembre/20:30Hrs',
     description: 'No te pierdas el show en vivo de tu artista favorito. Te llevamos y traemos con seguridad.',
   },
   {
-    image: 'https://i.ibb.co/Y7hrgzpp/eventos-2.jpg',
+    image: 'https://i.ibb.co/1G3tJWTV/carru-2.jpg',
     title: 'Homenaje a Virus',
     date: '08 Noviembre/21:00Hrs',
     description: 'Tributo a Virus uno de los grandes del Rock Latino. Olvídate de manejar, nosotros nos encargamos.',
   },
   {
-    image: 'https://i.ibb.co/3ytbT3Hs/eventos-3.jpg',
+    image: 'https://i.ibb.co/ds8k2mT5/carru-3.jpg',
     title: 'Gira 20 años',
     date: '14 Noviembre/21:00Hrs',
     description: 'Celebra 20 años de carrera con sus grandes éxitos en vivo. Llega con estilo y puntualidad con nuestro servicio VIP.',
   },
     {
-    image: 'https://i.ibb.co/j9xg5J3w/eventos-4.jpg',
+    image: 'https://i.ibb.co/219tqbcN/carru-4.jpg',
     title: 'Gira 20 años',
     date: '15 Noviembre/21:00Hrs',
     description: 'Celebra 20 años de carrera con sus grandes éxitos en vivo. Viaja cómodo con RolyTours.',
   },
    {
-    image: 'https://i.ibb.co/sTZTQGv/eventos-5.jpg',
+    image: 'https://i.ibb.co/cX151wPh/carru-5.jpg',
     title: 'Solo Tour',
     date: '21 Noviembre/21:00Hrs',
     description: 'Ven y disfruta del flow mundial y perreo boricua, sin preocuparte por el regreso. Viaja cómodo con RolyTours.',
   },
   {
-    image: 'https://i.ibb.co/Y74Gh27H/eventos-6.jpg',
+    image: 'https://i.ibb.co/wNPTmZ2f/carru-6.jpg',
     title: 'Lucero',
     date: '22 Noviembre/21Hrs',
     description: 'Vive la voz y el ritmo con sus grandes exitos, Viaja cómodo con RolyTours.',
   },
    {
-    image: 'https://i.ibb.co/5Xk5pytr/eventos-7.jpg',
+    image: 'https://i.ibb.co/HLL4fhSr/carru-7.jpg',
     title: 'Humor, Risas y anecdotas',
     date: '28 Noviembre/21:00Hrs',
     description: 'Disfruta de risas, anécdotas y humor irreverente. Despreocupate del regreso. Viaja cómodo con RolyTours.',
   },
    {
-    image: 'https://i.ibb.co/XrmRYHWn/eventos-8.jpg',
+    image: 'https://i.ibb.co/8Ddxxy3D/carru-8.jpg',
     title: 'Hits tour 2025',
     date: '29 Noviembre/21:00Hrs',
     description: 'Disfruta del romanticismo, nostalgia y emociones eternas sin preocuparte por el regreso. Viaja cómodo con RolyTours.',
