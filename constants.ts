@@ -99,12 +99,12 @@ export const TESTIMONIALS: Testimonial[] = [
 ];
 
 export const GALLERY_IMAGES = [
-  'https://picsum.photos/id/1015/600/400', // Litoral Central
-  'https://picsum.photos/id/1043/600/400', // Montaña
-  'https://picsum.photos/id/1055/600/400', // Río
-  'https://picsum.photos/id/175/600/400',  // 5ta Región (Valparaíso)
-  'https://picsum.photos/id/1059/600/400', // 6ta Región (Viñedos)
-  'https://picsum.photos/id/1039/600/400', // Playa (Litoral Central)
-  'https://picsum.photos/id/20/600/400',   // Camino en Montaña
-  'https://picsum.photos/id/305/600/400',  // Río con Corrientes
+  'https://i.ibb.co/xdjQrxB/galeria-1.jpg', // Litoral Central
+  'https://i.ibb.co/20rn8MGp/galeria-2.jpg', // Montaña
+  'https://i.ibb.co/x9FsNVX/galeria-3.jpg', // Río
+  'https://i.ibb.co/5WJ3dH6n/galeria-4.jpg',  // 5ta Región (Valparaíso)
+  'https://i.ibb.co/8wHT4Z1/galeria-5.jpg', // 6ta Región (Viñedos)
+  'https://i.ibb.co/7NJzbpS7/galeria-6.jpg', // Playa (Litoral Central)
+  'https://i.ibb.co/60cm8kj9/galeria-7.jpg',   // Camino en Montaña
+  'https://i.ibb.co/9krvsk83/galeria-8.jpg',  // Río con Corrientes
 ];
